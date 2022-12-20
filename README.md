@@ -1,5 +1,3 @@
-Install the dependencies via npm install command.
-As a finally step you could say npm start to access to the app.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
