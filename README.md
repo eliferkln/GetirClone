@@ -7,17 +7,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Full Responsive
 
 
-##💻 Built with
+💻 ## Built with
 
 React
 Tailwind
 
-##💻 Npm Packages
+💻 ## Npm Packages
 
 react-slick
 
 
-##✍️ Authors
+✍️ ## Authors
 
 Hanife Erkalan
 
