@@ -20,7 +20,7 @@ react-slick
 
 Hanife Erkalan
 
-React-Clone
+### React-Clone
 ![image](https://user-images.githubusercontent.com/73136159/208748225-652f8129-d8f4-497b-96e5-f3c58d7c4cd8.png)
 ![image](https://user-images.githubusercontent.com/73136159/208748332-6064e3b5-4e37-4461-9d80-99579f4af551.png)
 ![image](https://user-images.githubusercontent.com/73136159/208748392-5c23a9d8-6b95-4029-ab8c-177a9555fccd.png)
